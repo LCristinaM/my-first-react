@@ -4,7 +4,7 @@ function Footer () {
 <main>
     <article></article>
     <section></section>
-  </main>
+</main>
 }
 
 export default Footer;

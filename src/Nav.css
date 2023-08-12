@@ -3,12 +3,17 @@ nav {
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  background-color:rgb(214, 208, 208);
-  border: 1px solid gray;
+  background-color:#7B8CA6;
+  color: white;
+  border: 1px solid white;
+  position: sticky;
+  width: 100%vw;
+  top:150px;
 }
+
 .reflections {
 transition: color 0.5s ease;
-color: black;
+color: white;
 }
 .reflections:hover {
 color:blueviolet;
@@ -16,7 +21,7 @@ color:blueviolet;
 
 .sustainability {
 transition: color 0.5s ease;
-color: black;
+color: white;
 }
 .sustainability:hover {
 color:green;
@@ -24,8 +29,8 @@ color:green;
 
 .about-me {
 transition: color 0.5s ease;
-color: black;
+color: white;
 }
 .about-me:hover {
-color:white;
+color:black;
 }

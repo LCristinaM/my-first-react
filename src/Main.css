@@ -1,0 +1,13 @@
+
+
+.image-container {
+  position:static;
+  overflow: hidden;
+}
+
+.text-image {
+  color: #FFFFF9;
+  position: absolute;
+  top: 120%;
+  left: 50%;
+}
